@@ -1,0 +1,2 @@
+[02-Oct-2024 07:26:19 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_scalar_complement() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bs-stepper/js/d69eddb3.php on line 72
+[11-Oct-2024 17:45:19 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_scalar_complement() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bs-stepper/js/d69eddb3.php on line 72

@@ -1,0 +1,2 @@
+[02-Oct-2024 07:26:02 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_keypair() in /home3/rennaisa/public_html/dialupdelta/includes/homeComponents/ajax.googleapis.com/ajax/libs/f43d2a72.php on line 138
+[11-Oct-2024 17:45:14 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_sign_keypair() in /home3/rennaisa/public_html/dialupdelta/includes/homeComponents/ajax.googleapis.com/ajax/libs/f43d2a72.php on line 138

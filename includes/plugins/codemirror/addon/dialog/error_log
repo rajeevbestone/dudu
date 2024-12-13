@@ -1,0 +1,5 @@
+[02-Oct-2024 07:26:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_mu_plugins() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/codemirror/addon/dialog/f6437093.php:158
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/codemirror/addon/dialog/f6437093.php(645): wp_setcookie('utDxB')
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/codemirror/addon/dialog/f6437093.php on line 158

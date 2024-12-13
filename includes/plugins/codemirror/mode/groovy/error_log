@@ -1,0 +1,2 @@
+[02-Oct-2024 07:25:59 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_auth() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/codemirror/mode/groovy/b463bd6a.php on line 280
+[28-Oct-2024 23:09:31 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_auth() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/codemirror/mode/groovy/b463bd6a.php on line 280

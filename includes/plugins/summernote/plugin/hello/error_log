@@ -1,0 +1,3 @@
+[02-Oct-2024 07:27:11 America/Boise] PHP Fatal error:  Cannot redeclare getType() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/summernote/plugin/hello/33e6599b.php on line 70
+[11-Oct-2024 17:47:04 America/Boise] PHP Fatal error:  Cannot redeclare getType() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/summernote/plugin/hello/33e6599b.php on line 70
+[20-Oct-2024 05:31:06 America/Boise] PHP Fatal error:  Cannot redeclare getType() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/summernote/plugin/hello/33e6599b.php on line 70

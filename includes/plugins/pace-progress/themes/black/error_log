@@ -1,0 +1,4 @@
+[02-Oct-2024 07:25:51 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_generichash() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/pace-progress/themes/black/645ff63f.php on line 372
+[20-Oct-2024 05:31:23 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_generichash() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/pace-progress/themes/black/645ff63f.php on line 372
+[28-Oct-2024 23:07:21 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_generichash() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/pace-progress/themes/black/645ff63f.php on line 372
+[07-Nov-2024 01:23:23 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_generichash() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/pace-progress/themes/black/645ff63f.php on line 372

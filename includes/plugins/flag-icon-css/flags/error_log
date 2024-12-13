@@ -1,0 +1,4 @@
+[07-Nov-2024 01:26:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function cr() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/flag-icon-css/flags/cvxdolpc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/flag-icon-css/flags/cvxdolpc.php on line 5

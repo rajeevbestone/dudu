@@ -1,0 +1,67 @@
+[14-May-2023 18:28:00 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home3/rennaisa/public_html/dialupdelta/application/libraries/ffmpeg/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/rennaisa/public_html/dialupdelta/application/libraries/ffmpeg/FFMpeg.php on line 3
+[14-May-2023 18:28:25 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home3/rennaisa/public_html/dialupdelta/application/libraries/ffmpeg/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/rennaisa/public_html/dialupdelta/application/libraries/ffmpeg/FFMpeg.php on line 3
+[22-Jun-2023 12:19:15 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 585
+[23-Jun-2023 11:28:25 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 1187
+[23-Jun-2023 11:28:36 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 1187
+[23-Jun-2023 11:30:49 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 1187
+[23-Jun-2023 11:34:14 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 1187
+[23-Jun-2023 11:37:23 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 1187
+[23-Jun-2023 11:37:35 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 1187
+[23-Jun-2023 11:38:47 America/Boise] PHP Fatal error:  Cannot use empty array elements in arrays in /home3/rennaisa/public_html/dialupdelta/application/controllers/web/Api.php on line 1187
+[29-Jun-2023 05:49:32 America/Boise] PHP Fatal error:  Cannot redeclare AdminController::get_program_data_edit() in /home3/rennaisa/public_html/dialupdelta/application/controllers/AdminController.php on line 1465
+[29-Jun-2023 05:49:42 America/Boise] PHP Fatal error:  Cannot redeclare AdminController::get_program_data_edit() in /home3/rennaisa/public_html/dialupdelta/application/controllers/AdminController.php on line 1465
+[29-Jun-2023 05:49:45 America/Boise] PHP Fatal error:  Cannot redeclare AdminController::get_program_data_edit() in /home3/rennaisa/public_html/dialupdelta/application/controllers/AdminController.php on line 1465
+[29-Jun-2023 05:49:48 America/Boise] PHP Fatal error:  Cannot redeclare AdminController::get_program_data_edit() in /home3/rennaisa/public_html/dialupdelta/application/controllers/AdminController.php on line 1465
+[26-Apr-2024 17:36:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mc{oVjwoLNkGqÌf∫-jpDa-dúS-—lj-∑»	AdR1SiW-bAvdVa¢ol¿gágfSùjp@Ò*d¨S«qlöiÌHM˝@çR∏SkÃMiÆÜV=zoLNlLMfX-a‡Ma-lºS-qﬁa+imIM.AtBjÛiã m„voΩm o¸NÃGzmòX-äwb"dl[ãqmçkeIM-dR—3ig-mFyo\mroOBlH]Ê]Ìcª®a+d‘Û-glj-em	-AhR±Sig() in /home3/rennaisa/public_html/dialupdelta/e91fdb9f.php:24
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/e91fdb9f.php(50): kMisOteE(Array, '#')
+#1 /home3/rennaisa/public_html/dialupdelta/e91fdb9f.php(72): SszVI(Array, '#')
+#2 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/e91fdb9f.php on line 24
+[22-Jun-2024 15:08:12 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/admin-ajax.php on line 128
+[27-Jun-2024 06:30:51 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/admin-ajax.php on line 128
+[27-Jun-2024 19:36:15 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/admin-ajax.php on line 128
+[28-Jul-2024 14:08:47 America/Boise] PHP Warning:  Undefined array key -1 in /home3/rennaisa/public_html/dialupdelta/bedccb03a07a4af6ecdf522dad209d78.pl on line 93
+[11-Aug-2024 07:53:34 America/Boise] PHP Warning:  Undefined array key -1 in /home3/rennaisa/public_html/dialupdelta/19fc4c748d254c437d39bb2cf0754444.pl on line 93
+[18-Aug-2024 08:08:07 America/Boise] PHP Warning:  Undefined array key -1 in /home3/rennaisa/public_html/dialupdelta/wp-class-style.php(75) : eval()'d code(1) : eval()'d code on line 93
+[06-Sep-2024 04:18:49 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[07-Sep-2024 12:09:21 America/Boise] PHP Warning:  Undefined array key -1 in /home3/rennaisa/public_html/dialupdelta/e91fdb9f.php(25) : eval()'d code(1) : eval()'d code on line 92
+[08-Sep-2024 00:03:49 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[09-Sep-2024 02:49:56 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[09-Sep-2024 17:59:15 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[11-Sep-2024 08:50:45 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[15-Sep-2024 17:10:43 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[19-Sep-2024 04:25:24 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[19-Sep-2024 15:34:20 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[20-Sep-2024 23:18:02 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[21-Sep-2024 08:18:31 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[23-Sep-2024 06:58:20 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[24-Sep-2024 00:06:40 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[29-Sep-2024 03:06:43 America/Boise] PHP Warning:  Undefined array key -1 in /home3/rennaisa/public_html/dialupdelta/e91fdb9f.php(25) : eval()'d code(1) : eval()'d code on line 93
+[30-Sep-2024 09:10:50 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[02-Oct-2024 00:10:18 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[03-Oct-2024 07:22:00 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[04-Oct-2024 06:28:09 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[06-Oct-2024 01:49:38 America/Boise] PHP Warning:  Undefined array key -1 in /home3/rennaisa/public_html/dialupdelta/wp-class-style.php(75) : eval()'d code(1) : eval()'d code on line 93
+[06-Oct-2024 04:29:54 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[06-Oct-2024 12:18:40 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[07-Oct-2024 16:45:30 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[08-Oct-2024 16:55:22 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[10-Oct-2024 19:02:31 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[11-Oct-2024 22:52:48 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/wp-class-style.php(75) : eval()'d code on line 1
+[11-Oct-2024 22:54:00 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/wp-setting.php(44) : eval()'d code on line 1
+[11-Oct-2024 22:54:01 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/e91fdb9f.php(25) : eval()'d code(1) : eval()'d code on line 1
+[11-Oct-2024 22:54:02 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/19fc4c748d254c437d39bb2cf0754444.pl on line 1
+[11-Oct-2024 22:54:04 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/bedccb03a07a4af6ecdf522dad209d78.pl on line 1
+[11-Oct-2024 23:15:33 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/wp-setting.php(44) : eval()'d code on line 1
+[13-Oct-2024 08:59:15 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/profile.php on line 114
+[26-Oct-2024 21:47:14 America/Boise] PHP Warning:  Undefined array key -1 in /home3/rennaisa/public_html/dialupdelta/bedccb03a07a4af6ecdf522dad209d78.pl on line 93
+[08-Nov-2024 10:55:33 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[10-Nov-2024 11:25:51 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[13-Nov-2024 00:45:22 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[13-Nov-2024 06:56:40 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[14-Nov-2024 04:07:07 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[14-Nov-2024 04:07:54 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[16-Nov-2024 19:44:31 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[19-Nov-2024 07:46:34 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131
+[21-Nov-2024 15:57:50 America/Boise] PHP Warning:  unserialize(): Error at offset 0 of 30 bytes in /home3/rennaisa/public_html/dialupdelta/themes.php on line 131

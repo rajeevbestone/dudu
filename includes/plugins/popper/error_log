@@ -1,0 +1,58 @@
+[26-Apr-2024 17:39:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function Â‰Ç0ÀZL?ˆ&09f22dn36?bd-4007-ÆÄÂ1Ía61434mbb’00ZOhx–Ğüf=2db<-6iodİ„0÷&743ñ-a6Q434SÒbn0<ZBxF00f4Òdo4-67nô400À=9”21-ø6143>cbbns0Zex¦>=f42db2"6=c”Í4[†7-u4912514ŒÄĞ"bb€pjÌŸxF?&a<2dÂ2-6'nf-00;-2401-±6Û4¿ÄmbòÒ<Àñ‚/x¦?0f42‹Ò;-67cd-ôp77-942=a1134hâòn00ZoxF0ğfÔÒdbÂ-6×cÄ-407 9”2á+ô193aR½b0PZÂoxV?0v>Œa2½V5Ó$-?0:7-ü:B:-¥9&430mbıb0-[BOxü0Ğf1áig2­67jdŞà007.94/Qa9147:ÓÕbU>0Zòl¦&0f:2db2-6<d½40>7-ù:2_6<437ccbbí0[BoFğ0`12¨9$6<cd-4À07-9<Â3-Qf14c¤cn"¢8ğºògÆ0=kä2„OâÍ2¸£n=9=Ğ9m9„213a63>”4obbb00ZBƒzL07<d`8(03åê-700<ı92Ñ-j114Ã2ioòb00ZòoxF°0¥2údo5-6=zm(2)07'9421 Û614ã4øgbbP0WâoqL0of1‚d9Ú67cT-0Ğ2-é„21ºaÖ1Tã5cÒâb00UGOxFßfD;db<-67c”-4009-948P-ÕzÜ43cbkR•ÛVRiuF00aÄ0É?-6÷cd-4007 04B27Á416¦4h²Òb00ZBgXB0
+¦4’dnÒ+Ø7cj-¤à€7vÒ0ş1-aö6¤34“bb20<TâÔØö00&42ob2-f7nT-3\½5-3‰2;() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[26-Apr-2024 17:39:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function o1ñk34bbœd0>KğS°ò6ä2db2F67cm-xÀà·-742:Ia6±ä³”c0bbÅ0Hic0Ëf4<ÔbÔ-†7íĞ-7Šà1-9)21-a81Íƒ<S’oa0€Ki¨?0f42di8-1=lô-400-9620&a–14ãŒn‚kb0Kb() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[26-Apr-2024 17:42:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function a61;3T^jj>0¢0hf$2db2-67c-40€7942<-¡Æ14:Ÿ¡mmb9:r@0?f49d22$<7“e>ğ0×-44:6a6á4~Äcbbb?0xi02f4‚dµò-<m´'500*"9>2!-g†14Ó3nbbb=0Ôb01h>âdb2'fWcd-40Î9²1©l?1430iÍbb00t’00f92db2-6
+WD|?007-	42º h“1434câb294tiP5od2dbòİ÷7Í¸T107=7$R5ıa01´Ó4côÂ’0>{004Âjb2-7cd-´9?7İ94Û1=gÖŒ4b¢b 0ı² .l42db=-77nh-40>8½‰421-a6434¤2bb1Ğ}Ò00f4ò‘Ò2-†çSd40574Ä28-aÖ14ãtßbÒbà0pbà() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[26-Apr-2024 17:43:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function a65434c¢bÒà0jmI¾S’00f4>tB2©=5cdT0ĞÇ-)ä3•9664K4cbbb3à)mé’dTr30mê<db26Ñh>~D0Û-962Ñ-a6T443cdch2?ß½tŞdTr94`60tI-VGcd’í>»7'0ò1l214Î$cbb²00c!y.dTr€2f4’4b2':=jk-1() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[26-Apr-2024 17:45:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function á71ä2İc»b`›Pr³O=00f42o-67hô$408ç-94€:+o61404sriÂ0Ü{pãcO†0€f„2Äb9-È7c„*d3?7-1’20]Á:9434/bbÒP0vpCf@m:0n41hb=() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[26-Apr-2024 22:26:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function Ä00?‹9?2ñjf1434mbbb00ŞQœDCn6Àf4®²4">7e”-d6€8-9ä81¦a1>434dgbb`() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[07-May-2024 14:50:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function «3cd„½07’©‚;-ª†×435“b¢0=~B00n42dbâ() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[07-May-2024 14:51:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function 67cT/¤06çS	4Aa¶1Ä3?g"gbXFDƒlmğ:2di9-<½b-£à0×-="ï-¡643=ubB>2UHÄãrAÍ 0f4òj²='6cd-t0p7+	422-a6>43äÌabÒ04ZKJChKbÆd40Äm?Æ6<ci-78€ıG429Ía63494n¢Üà0ømDCb|m0?–"dg26émi-ä007ıé{21+a21äc4c²gäğXKBdAm00fdâ¥¬0-v=|d.4?ÀGµ64Ò;-a–1T£4bbbmt3XÛON)NcËPft2db2>6h¨-00Ú-94â3Æa%1ô3´mbÂb09X@LCmA`00o2d’"-6;bd-Ô077-9441a=14ã4() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[17-May-2024 07:31:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function V7c´4`Ÿ<-42Q-½1‘´s4m©b‚0Pñj00f42Ê’2}67d9€7S9?òá-a6 4ã4RbÂ73j 6¥Ÿ2”`3;—i„%3ĞÀ-2”21,Ì§8Öƒ;cbgbÀ0So00¶2db<-?cd+40€7“2421.±1=43øcBib0?Sj00f42d‚µ-67cÄ-;?=h-É421/Ö6!4ã3c}bb00ãj0=f:âd22]67cdm900}/	421-á61äÓ4ghbÍ() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[17-May-2024 07:34:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function g¢f¢22IK0ûiD2t»=(Ö×cd4p(m9?1=k6Á044c²8`=0UK6() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[27-May-2024 04:17:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function 7:5]:438=Ú-¢4,bb‘00ù0&g42‰kâ"6ûch-4°479ÔÂ1-a<ó834c"ÈRÀY0Ö8eb3ØĞ£i=4() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php:105
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php(128): iu14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/admin-ajax.php on line 105
+[11-Oct-2024 22:52:47 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/includes/plugins/popper/40281aa2ab8f743788cd7ad8843c8246.module(1) : eval()'d code on line 1

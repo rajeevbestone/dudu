@@ -1,0 +1,1 @@
+[14-Nov-2024 16:29:40 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/dropzone/min/019e486a.php on line 1333

@@ -1,0 +1,1 @@
+[14-Nov-2024 16:29:47 America/Boise] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_keygen() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/codemirror/addon/search/02b66e38.php on line 1566

@@ -1,0 +1,26 @@
+[26-Apr-2024 17:40:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function C+ø“€Õb…ç\º9Ïm81d%bcf_21-ão«-8kc5!Yc“3fxcg`eneZ_gÄ0c8‘d…b^f2Á-4() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php:98
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php(118): la14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php on line 98
+[26-Apr-2024 17:42:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function G8“ac5bõQV„w04€c41$ª"fÖ;â-4Ôg3 ;djE{	c<foaı:öˆA˜Ttp44c¨4i2b-kf2Á4:^4-3e`Õ-7ccÓ†8aS5beAW.ypTğÓµ1”5R\fn²1!±a-;µee9cy8f8ial5’¥Aİî~vIĞc81d5b-ff8148aù-Èech-9££3¦8cac52hAíTÔp40f8QdEh-mB;1Í”3Aa-8h±e'9³³3fÈcal’eAVTtp0cø‘d5b-ff2;B\âaa=8Åm½() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php:98
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php(118): la14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php on line 98
+[26-Apr-2024 17:44:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function ff21à43aÁ-ÖecÕ-"Ãc() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php:98
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php(118): la14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php on line 98
+[07-May-2024 14:52:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function f2Å-„3aa!1µcU-9c£:&:c!c5boHNNsr40c88dEb6Öf21ü43aá-<ecegÉccCf8ƒac=eHNL3ğ²Ä0c81$52() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php:98
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php(118): la14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php on line 98
+[17-May-2024 07:32:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function }f2a]”ƒ¡a]8eie')cc3f9cac5b¥J4<87d%`!oÖ:1-4() in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php:98
+Stack trace:
+#0 /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php(118): la14(Array, Array)
+#1 {main}
+  thrown in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/wp-login.php on line 98
+[11-Oct-2024 22:54:06 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/rennaisa/public_html/dialupdelta/includes/plugins/bootstrap-slider/css/c7649473de8baabab03f8e002ebe2ad2.module(1) : eval()'d code on line 1
